@@ -1,0 +1,6 @@
+ru/study/chat/Main.class
+ru/study/chat/InMemoryGroupChat.class
+ru/study/chat/ChatMessage.class
+ru/study/chat/InMemoryGroupChat$UserData.class
+ru/study/chat/UserState.class
+ru/study/chat/GroupChat.class
